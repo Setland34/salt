@@ -686,7 +686,7 @@ pyeapi==0.8.4
     # via napalm
 pygit2==1.0.3 ; python_version <= "3.8"
     # via -r requirements/static/ci/linux.in
-pygments==2.8.1
+pygments==2.15.0
     # via sphinx
 pyiface==0.0.11
     # via -r requirements/static/ci/linux.in
