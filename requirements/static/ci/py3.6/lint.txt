@@ -12,7 +12,7 @@ aiohttp==3.8.1
     # via etcd3-py
 aiosignal==1.2.0
     # via aiohttp
-ansible-core==2.11.4
+ansible-core==2.18.0
     # via ansible
 ansible==4.4.0
     # via -r requirements/static/ci/linux.in
@@ -873,7 +873,7 @@ websocket-client==0.40.0
     # via
     #   docker
     #   kubernetes
-werkzeug==2.0.1
+werkzeug==3.0.6
     # via moto
 wrapt==1.11.1
     # via astroid
